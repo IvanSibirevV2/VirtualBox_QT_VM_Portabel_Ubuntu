@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<VirtualBox xmlns="http://www.innotek.de/VirtualBox-settings" version="1.12-windows">
+  <Global>
+    <ExtraData>
+      <ExtraDataItem name="GUI/UpdateDate" value="never"/>
+    </ExtraData>
+    <SystemProperties defaultMachineFolder="X:\PortableApps\VirtualBoxPortable\VMs"/>
+  </Global>
+</VirtualBox>

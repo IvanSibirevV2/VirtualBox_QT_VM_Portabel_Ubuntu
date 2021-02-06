@@ -1,0 +1,17 @@
+00:00:02.728570 VirtualBox GUI VM Selector Window 6.1.2 r135662 win.amd64 (Jan 13 2020 10:54:25) release log
+00:00:02.728571 Log opened 2021-02-06T17:47:26.687647000Z
+00:00:02.728572 Build Type: release
+00:00:02.728574 OS Product: Windows 10
+00:00:02.728574 OS Release: 10.0.18363
+00:00:02.728575 OS Service Pack: 
+00:00:02.747616 DMI Product Name: TravelMate P614-51T
+00:00:02.751953 DMI Product Version: V1.01
+00:00:02.751978 Firmware type: UEFI
+00:00:02.752389 Secure Boot: Enabled
+00:00:02.752400 Host RAM: 16186MB (15.8GB) total, 10678MB (10.4GB) available
+00:00:02.752403 Executable: C:\D\VirtualBox\App\VirtualBox\VirtualBox.exe
+00:00:02.752403 Process ID: 9744
+00:00:02.752404 Package type: WINDOWS_64BITS_GENERIC
+00:00:02.752513 Qt version: 5.6.2
+00:00:02.768938 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:03.190525 GUI: UIMediumEnumerator: Medium-enumeration finished!
